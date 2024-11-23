@@ -3,5 +3,5 @@
 </h1>
 
 <p>
-  Repositorios das Atividades e estudos do Curso.
+  Repositorio das Atividades e estudos do Curso.
 </p>
